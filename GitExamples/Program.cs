@@ -14,6 +14,7 @@ namespace GitExamples
             // Code Updated in git hub
             //new code added in branch1VS
             //Branch2 updated
+            //Another comment added in branch2
         }
 
     }
