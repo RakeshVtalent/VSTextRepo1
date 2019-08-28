@@ -13,7 +13,7 @@ namespace GitExamples
             //code added in the vs
             // Code Updated in git hub
             //new code added in branch1VS
-            //Branch2 created
+            //Branch2 updated
         }
 
     }
