@@ -15,6 +15,7 @@ namespace GitExamples
             //new code added in branch1VS
             //Branch2 updated
             //Another comment added in branch2
+            //another line
         }
 
     }
